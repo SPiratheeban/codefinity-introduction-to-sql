@@ -1,0 +1,4 @@
+select
+    name
+    , id
+from country
